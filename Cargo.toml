@@ -1,0 +1,8 @@
+[package]
+name = "rg3d-sound-sdl"
+version = "0.1.0"
+authors = ["Michael Connor Buchan <mikey@blindcomputing.org>"]
+license = "mit"
+edition = "2021"
+
+[dependencies]
