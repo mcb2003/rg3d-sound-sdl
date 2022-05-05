@@ -2,6 +2,9 @@
 name = "rg3d-sound-sdl"
 version = "0.1.0"
 authors = ["Michael Connor Buchan <mikey@blindcomputing.org>"]
+description = "Use rg3d-sound with SDL's audio subsystem"
+categories = ["game-development", "multimedia"]
+keywords = ["audio", "sound", "sdl", "rg3d", "bridge"]
 license = "mit"
 edition = "2021"
 
