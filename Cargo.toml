@@ -8,6 +8,7 @@ keywords = ["audio", "sound", "sdl", "rg3d", "bridge"]
 license = "MIT"
 repository = "https://github.com/mcb2003/rg3d-sound-sdl"
 readme = "README.md"
+exclude = ["ding.wav"]
 edition = "2021"
 
 [dependencies]
