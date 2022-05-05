@@ -5,7 +5,7 @@ authors = ["Michael Connor Buchan <mikey@blindcomputing.org>"]
 description = "Use rg3d-sound with SDL's audio subsystem"
 categories = ["game-development", "multimedia"]
 keywords = ["audio", "sound", "sdl", "rg3d", "bridge"]
-license = "mit"
+license = "MIT"
 repository = "https://github.com/mcb2003/rg3d-sound-sdl"
 edition = "2021"
 
